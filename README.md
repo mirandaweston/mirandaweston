@@ -18,9 +18,6 @@ My name is Miranda and I'm a Full Stack Junior Developer in training at Makers A
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/R-React-lightblue?logo=react&style=flat" height="20"/>
   </a>&nbsp;
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GH-GitHub-grey?logo=github&logoColor=white&style=flat" height="20"/>
-  </a>&nbsp;
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height="20"/>
   </a>&nbsp;
