@@ -32,6 +32,9 @@ My name is Miranda and I'm a Full Stack Junior Developer in training at Makers A
   </a>&nbsp;
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" height="20"/>
+  </a>&nbsp;
+  <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="20"/>
   </a>
 </p>
 
