@@ -9,9 +9,6 @@ My name is Miranda and I'm a Full Stack Junior Developer trained at Makers Acade
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/N-NodeJS-darkgreen?logo=node.js&style=flat" height="20"/>
   </a>&nbsp;
-  <a href="https://rubyonrails.org/">
-    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white" height="20"/>
-  </a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JS-JavaScript-yellow?logo=javascript&style=flat" height="20"/>
   </a>&nbsp;
@@ -20,6 +17,9 @@ My name is Miranda and I'm a Full Stack Junior Developer trained at Makers Acade
   </a>&nbsp;
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height="20"/>
+  </a>&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="20"/>
   </a>&nbsp;
   <a href="https://jestjs.io/">
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white" height="20"/>
