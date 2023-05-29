@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Miranda and I'm a Full Stack Junior Developer trained at Makers Academy. Big on TDD, OOP and clean code.  Looking for a role where I can continue to develop my programming knowledge in a growth-oriented environment. 🌱
+My name is Miranda and I'm a Full Stack Software Engineer. Big on TDD, OOP and clean code. 🌱
 
 <p align="left">
   <a href="https://skillicons.dev">
